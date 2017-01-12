@@ -11,5 +11,5 @@ void loop() {
   unsigned int IOut;
   IOut = pwr.getIoutCurrent();
   Serial.println(IOut*(1.8/4096));
-  delay(50);
+  delay(500);
 }
