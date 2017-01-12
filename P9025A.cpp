@@ -98,8 +98,7 @@ int16_t P9025A::getVrectVoltage()
 
 /**************************************************************************/
 /*!
-    @brief Read Current value of load connected to the out pin of P9025A (OUT)
-	Output current is not exactely 1.0 Ampere because regulated by FOD.
+    @brief Read Current used from load connected to the OUT pin of P9025A (OUT)
 */
 /**************************************************************************/
 int16_t P9025A::getIoutCurrent()
