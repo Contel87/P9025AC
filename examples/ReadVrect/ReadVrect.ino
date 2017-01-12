@@ -11,5 +11,5 @@ void loop() {
   unsigned int Vrect;
   Vrect = pwr.getVrectVoltage();
   Serial.println(Vrect*5*(1.8/4096));
-  delay(50);
+  delay(500);
 }
