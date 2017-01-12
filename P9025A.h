@@ -2,7 +2,7 @@
 /*!
     @file     P9025A.h
     @author   Conte Luigi
-    @license  BSD (see license.txt)
+    @license  GPL 3.0 (see license.txt)
 
     This program is wrote for the #WirelessPowerContest.
     It use I2C line of P9024A to communicate with Arduino UNO.
