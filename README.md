@@ -14,7 +14,7 @@ Connections
 
 P9025AC Pin       | Arduino Pin
 ------------------|------------
-Pin GN            | GND Pin
+Pin GND           | GND Pin
 Pin (SDA)         | Analog Pin A4
 Pin (SCL)         | Analog Pin A5
 
