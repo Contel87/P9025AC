@@ -31,7 +31,7 @@ void loop() {
   lcd.print("IOut: ");lcd.print(IOut*(1.8/4096));lcd.print(" A  ");
 
   CoilFreq = pwr.getCoilFrequency();
-  lcd.print("Freq: ");lcd.print(65536/CoilFreq);lcd.print(" Hz");
+  lcd.print("Freq: ");lcd.print(65536/CoilFreq);lcd.print(" Hz  ");
 
   delay(500);
 }
