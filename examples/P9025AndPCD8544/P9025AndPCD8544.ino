@@ -34,7 +34,7 @@ void loop() {
 
   //Print Coil Resonance frequency 
   CoilFreq = pwr.getCoilFrequency();
-  lcd.print("Freq: ");lcd.print(65536/CoilFreq);lcd.print(" Hz  ");
+  lcd.print("Freq: ");lcd.print(65536/CoilFreq);lcd.print(" KHz ");
 
   delay(500);
 }
