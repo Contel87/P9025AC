@@ -10,6 +10,7 @@
     @section  HISTORY
 
     v1.0  - First release (January 2017)
+    V1.1 - Coil Frequency unit corrected: in V1.0 Coil frequency value was in Hz... True value is Khz (As QI 1.1 Specifications).
 */
 /**************************************************************************/
 
