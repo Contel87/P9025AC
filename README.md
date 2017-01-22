@@ -2,6 +2,9 @@
 Created by Luigi Conte (luigi.conte@hotmail.com) for #WirelessPowerContest (http://contest.open-electronics.org/challenge-wireless-power/).
 This is an arduino library that shows the parameters of wireless power receiver.
 Some sketches use lcd Philips PCD8544 library (https://github.com/carlosefr/pcd8544).
+
+Errata Corrige! V1.1 - Coil Frequency unit corrected: in V1.0 Coil frequency value was in Hz... True value is Khz (As QI Specifications).
+
 Installation
 ============
 
